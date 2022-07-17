@@ -1,7 +1,11 @@
 #versions: myenv, binderenv, myenvextras
+channels:
+  - conda-forge
 dependencies:
   - python==3.8.10 #
   - pip==21.0 #
   - pip: 
     - viola==0.3.8 #, ==0.2.16
     - ipywidgets==7.5.0 #==7.6.3
+    - autocalc
+    - appmode
