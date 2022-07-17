@@ -1,4 +1,4 @@
 ipywidgets
 autocalc
+numpy
 voila
-appmode
