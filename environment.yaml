@@ -7,4 +7,3 @@ dependencies:
     - ipywidgets==7.5.0 #==7.6.3
     - autocalc
     - numpy
-    - pickle
