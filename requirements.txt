@@ -2,3 +2,4 @@ ipywidgets
 autocalc
 numpy
 voila
+sklearn
